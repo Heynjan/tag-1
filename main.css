@@ -1,0 +1,26 @@
+.mohrhuhn-haus{
+    background-position: center;
+    position: absolute;
+    left: 0;
+    right:0;
+    top:0;
+    bottom:0;
+    opacity: 100%;
+}
+
+.mohrhuhn{
+    position: absolute;
+    background-position: center;
+    left: 400px;
+    opacity: 100%;
+}
+.fadenkreuz{
+    position: absolute;
+    background-position: center;
+    left: 100px;
+    opacity: 100%;
+}
+
+*{
+cursor: none;
+}
